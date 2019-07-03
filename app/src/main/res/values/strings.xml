@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">coroutines</string>
+    <string name="retry">Click to Retry!</string>
+</resources>
